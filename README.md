@@ -1,3 +1,9 @@
+<style type="text/css">
+    img {
+        width: 250px;
+    }
+</style>
+
 # game-of-life
 > Interactive 'game of life' automaton
 
